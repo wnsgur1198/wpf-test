@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\bin\Release\WPF_Test.exe.config
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\bin\Release\WPF_Test.exe
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\bin\Release\WPF_Test.pdb
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.exe
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.pdb
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.baml
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.g.cs
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test_MarkupCompile.cache
+C:\Users\Owner\Desktop\pjkim\Database\DatabaseProgs - 복사본\WPF_Test\obj\Release\WPF_Test.g.resources

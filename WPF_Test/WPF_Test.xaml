@@ -1,0 +1,73 @@
+﻿
+<Window x:Class="의료IT공학과.데이터베이스.WPF_Test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		  
+        Title="테스트"
+        SizeToContent="WidthAndHeight">
+
+    <Grid Margin="10 10 15 10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.Resources>
+            <Style TargetType="{x:Type Label}">
+                <Setter Property="Margin" Value="2" />
+                <Setter Property="HorizontalAlignment" Value="Right" />
+            </Style>
+
+            <Style TargetType="{x:Type TextBox}">
+                <Setter Property="Margin" Value="2" />
+                <Setter Property="Width" Value="200" />
+                <Setter Property="HorizontalAlignment" Value="Left" />
+                <Setter Property="Text" Value="" />
+                
+            </Style>
+        </Grid.Resources>
+
+        <TextBlock Text="학생정보입력" 
+                 Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" 
+                   HorizontalAlignment="Center"
+                 FontSize="24" />
+
+        <Label Content="학번:" Grid.Row="1" Grid.Column="0" />
+        <TextBox  x:Name="HakbunBox" Grid.Row="1" Grid.Column="1"/>
+
+        <Label Content="이름:" Grid.Row="2" Grid.Column="0" />
+        <TextBox  x:Name="NameBox" Grid.Row="2" Grid.Column="1" />
+
+        <Label Content="학과:" Grid.Row="3" Grid.Column="0" />
+        <TextBox  x:Name="DeptBox" Grid.Row="3" Grid.Column="1" />
+
+        <Label Content="주소:" Grid.Row="4" Grid.Column="0" />
+        <TextBox  x:Name="AddrBox" Grid.Row="4" Grid.Column="1" />
+
+        <Label Content="전화:" Grid.Row="5" Grid.Column="0" />
+        <TextBox  x:Name="PhoneBox" Grid.Row="5" Grid.Column="1" />
+
+        <Label Content="메일:" Grid.Row="6" Grid.Column="0" />
+        <TextBox  x:Name="MailBox" Grid.Row="6" Grid.Column="1" />
+
+
+        <StackPanel Margin="5" Orientation="Horizontal" HorizontalAlignment="Center"
+                    Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3">
+            <Button Content="수정" Margin="5" Width="50" Height="30" Click="updateBtnClick"/>
+            <Button Content="삭제" Margin="5" Width="50" Height="30" Click="deleteBtnClick"/>
+            <Button Content="입력" Margin="5" Width="50" Height="30" Click="insertBtnClick"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

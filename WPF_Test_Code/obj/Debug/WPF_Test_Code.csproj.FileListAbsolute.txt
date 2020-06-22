@@ -1,0 +1,14 @@
+G:\Database\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.exe.config
+G:\Database\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.exe
+G:\Database\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.pdb
+G:\Database\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.csprojAssemblyReference.cache
+G:\Database\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.csproj.CoreCompileInputs.cache
+G:\Database\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.exe
+G:\Database\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.pdb
+G:\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.exe.config
+G:\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.exe
+G:\WPF_Test_Progs\WPF_Test_Code\bin\Debug\WPF_Test_Code.pdb
+G:\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.csprojAssemblyReference.cache
+G:\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.csproj.CoreCompileInputs.cache
+G:\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.exe
+G:\WPF_Test_Progs\WPF_Test_Code\obj\Debug\WPF_Test_Code.pdb
